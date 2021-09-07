@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krwalsh1
 - 👀 I’m interested in a software development career
 - 🌱 I’m currently learning object oriented design
-- 💞️ I’m looking to collaborate on building a career
 - 📫 How to reach me: krwalsh1@rams.colostate.edu
 
 <!---
